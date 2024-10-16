@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645588170729",
+    "project_id": "providerman-e41cf",
+    "storage_bucket": "providerman-e41cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645588170729:android:01770212d57d1f98cabd78",
+        "android_client_info": {
+          "package_name": "com.example.providerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH2WDkpcSRmTiAVULIPZ_TWzGJidaXIVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
